@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "netlify-lambda": "^1.6.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
   }
 }
